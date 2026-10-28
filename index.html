@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RF AUDIO PRO - Descarga Beta</title>
+<meta name="description" content="Descarga el beta de RF AUDIO PRO para Mac: RF SCULPT, Stereo Analyzer, RFAI PRO y RFAI PRO 2.">
+<style>
+  :root{
+    --bg:#0e1013; --card:#161a1f; --line:#262c34; --text:#e8ecf0; --muted:#9aa5b1;
+    --accent:#3ddc84; --accent-ink:#06210f; --amber:#ffb020;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    background:var(--bg); color:var(--text);
+    font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:760px;margin:0 auto;padding:48px 16px 64px}
+  header{text-align:center;margin-bottom:36px}
+  .logo{font-weight:800;letter-spacing:.18em;font-size:14px;color:var(--accent)}
+  h1{font-size:clamp(28px,6vw,42px);line-height:1.15;margin:12px 0 10px}
+  .sub{color:var(--muted);max-width:520px;margin:0 auto}
+  .cta{text-align:center;margin:32px 0 8px}
+  .btn{
+    display:inline-block;background:var(--accent);color:var(--accent-ink);
+    font-weight:700;font-size:18px;padding:16px 34px;border-radius:12px;text-decoration:none;
+    transition:transform .12s ease, filter .12s ease;
+  }
+  .btn:hover{filter:brightness(1.08);transform:translateY(-1px)}
+  .btn:focus-visible{outline:3px solid #fff;outline-offset:3px}
+  .meta{color:var(--muted);font-size:14px;margin-top:10px}
+  section{margin-top:44px}
+  h2{font-size:20px;margin:0 0 14px}
+  .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px}
+  .card b{display:block;margin-bottom:2px}
+  .card span{color:var(--muted);font-size:14px}
+  ol{margin:0;padding:0;list-style:none;counter-reset:s}
+  ol li{counter-increment:s;position:relative;padding:14px 16px 14px 58px;background:var(--card);
+        border:1px solid var(--line);border-radius:12px;margin-bottom:10px}
+  ol li::before{content:counter(s);position:absolute;left:16px;top:14px;width:28px;height:28px;border-radius:50%;
+        background:var(--accent);color:var(--accent-ink);font-weight:800;display:grid;place-items:center;font-size:14px}
+  ol li b{display:block}
+  ol li span{color:var(--muted);font-size:15px}
+  .note{border-left:4px solid var(--amber);background:var(--card);padding:14px 16px;border-radius:0 12px 12px 0;color:var(--muted);font-size:15px}
+  .note b{color:var(--text)}
+  footer{margin-top:56px;text-align:center;color:var(--muted);font-size:13px}
+  code{background:#0b0d10;border:1px solid var(--line);padding:2px 6px;border-radius:6px;font-size:13px}
+  @media (max-width:560px){ .grid{grid-template-columns:1fr} .wrap{padding-top:32px} }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="logo">RF AUDIO PRO</div>
+    <h1>Descarga el beta para Mac</h1>
+    <p class="sub">Cuatro plugins VST3 en un solo instalador. 15 días de prueba con todo activo, sin tarjeta.</p>
+    <div class="cta">
+      <a class="btn" href="https://github.com/rafaelhernandofranco-dot/updates/releases/latest/download/RF_AUDIO_PRO.pkg">Descargar instalador (.pkg)</a>
+      <div class="meta">macOS · Intel y Apple Silicon · VST3</div>
+    </div>
+  </header>
+
+  <section>
+    <h2>Qué incluye</h2>
+    <div class="grid">
+      <div class="card"><b>RF SCULPT</b><span>Escultura de frecuencias y saturación.</span></div>
+      <div class="card"><b>Stereo Analyzer</b><span>Análisis estéreo con vista polar de lóbulos.</span></div>
+      <div class="card"><b>RFAI PRO</b><span>Anti-feedback.</span></div>
+      <div class="card"><b>RFAI PRO 2</b><span>Anti-feedback, segunda generación.</span></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Cómo instalarlo</h2>
+    <ol>
+      <li><b>Descarga y abre el archivo</b><span>Haz doble clic en <code>RF_AUDIO_PRO.pkg</code> desde tu carpeta Descargas.</span></li>
+      <li><b>Si macOS lo bloquea, dale permiso</b><span>Pulsa «Aceptar» en el aviso. Luego entra en Ajustes del Sistema &gt; Privacidad y seguridad, baja hasta «Seguridad» y pulsa «Abrir de todos modos». Escribe la contraseña de tu Mac.</span></li>
+      <li><b>Instala</b><span>Sigue el instalador hasta el final.</span></li>
+      <li><b>Reinicia tu DAW</b><span>Ciérralo del todo y ábrelo otra vez. En Reaper, si no ves los plugins: Preferences &gt; Plug-ins &gt; VST &gt; «Clear cache and re-scan».</span></li>
+    </ol>
+    <div class="note" style="margin-top:14px"><b>¿Por qué sale ese aviso?</b> El instalador aún no está firmado con un certificado de Apple. Es normal en versiones beta y solo ocurre la primera vez.</div>
+  </section>
+
+  <section>
+    <h2>Activar la licencia</h2>
+    <ol>
+      <li><b>Abre cualquier plugin</b><span>Durante 15 días funciona completo sin hacer nada.</span></li>
+      <li><b>Copia tu Machine ID</b><span>Pulsa «Copy ID» dentro del plugin.</span></li>
+      <li><b>Envíamelo</b><span>Te devuelvo una clave que activa los cuatro plugins a la vez.</span></li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>Actualizaciones</h2>
+    <p class="sub" style="margin:0">Cuando haya una versión nueva, el plugin muestra una barra de aviso. Pulsas, se descarga y se instala. No tienes que volver a esta página.</p>
+  </section>
+
+  <footer>© RF AUDIO PRO · Beta</footer>
+</div>
+</body>
+</html>
