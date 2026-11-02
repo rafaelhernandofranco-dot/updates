@@ -28,6 +28,7 @@
     font-weight:700;font-size:18px;padding:16px 34px;border-radius:12px;text-decoration:none;
     transition:transform .12s ease, filter .12s ease;
   }
+  .btn2{margin-left:10px;background:#5cc8ff}
   .btn:hover{filter:brightness(1.08);transform:translateY(-1px)}
   .btn:focus-visible{outline:3px solid #fff;outline-offset:3px}
   .meta{color:var(--muted);font-size:14px;margin-top:10px}
@@ -48,7 +49,7 @@
   .note b{color:var(--text)}
   footer{margin-top:56px;text-align:center;color:var(--muted);font-size:13px}
   code{background:#0b0d10;border:1px solid var(--line);padding:2px 6px;border-radius:6px;font-size:13px}
-  @media (max-width:560px){ .grid{grid-template-columns:1fr} .wrap{padding-top:32px} }
+  @media (max-width:560px){ .btn2{margin:12px 0 0 0;display:block} .btn{display:block} .grid{grid-template-columns:1fr} .wrap{padding-top:32px} }
 </style>
 </head>
 <body>
@@ -56,11 +57,12 @@
 
   <header>
     <div class="logo">RF AUDIO PRO</div>
-    <h1>Descarga el beta para Mac</h1>
-    <p class="sub">Cuatro plugins VST3 en un solo instalador. 15 días de prueba con todo activo, sin tarjeta.</p>
+    <h1>Descarga el beta</h1>
+    <p class="sub">Cuatro plugins VST3 en un solo instalador, para Mac y Windows. 15 días de prueba con todo activo, sin tarjeta.</p>
     <div class="cta">
-      <a class="btn" href="https://github.com/rafaelhernandofranco-dot/updates/releases/latest/download/RF_AUDIO_PRO.pkg">Descargar instalador (.pkg)</a>
-      <div class="meta">macOS · Intel y Apple Silicon · VST3</div>
+      <a class="btn" href="https://github.com/rafaelhernandofranco-dot/updates/releases/latest/download/RF_AUDIO_PRO.pkg">Descargar para Mac (.pkg)</a>
+      <a class="btn btn2" href="https://github.com/rafaelhernandofranco-dot/updates/releases/latest/download/RF_AUDIO_PRO_Setup.exe">Descargar para Windows (.exe)</a>
+      <div class="meta">Mac: Intel y Apple Silicon · Windows: 64 bits · Formato VST3</div>
     </div>
   </header>
 
@@ -75,7 +77,7 @@
   </section>
 
   <section>
-    <h2>Cómo instalarlo</h2>
+    <h2>Cómo instalarlo en Mac</h2>
     <ol>
       <li><b>Descarga y abre el archivo</b><span>Haz doble clic en <code>RF_AUDIO_PRO.pkg</code> desde tu carpeta Descargas.</span></li>
       <li><b>Si macOS lo bloquea, dale permiso</b><span>Pulsa «Aceptar» en el aviso. Luego entra en Ajustes del Sistema &gt; Privacidad y seguridad, baja hasta «Seguridad» y pulsa «Abrir de todos modos». Escribe la contraseña de tu Mac.</span></li>
@@ -83,6 +85,17 @@
       <li><b>Reinicia tu DAW</b><span>Ciérralo del todo y ábrelo otra vez. En Reaper, si no ves los plugins: Preferences &gt; Plug-ins &gt; VST &gt; «Clear cache and re-scan».</span></li>
     </ol>
     <div class="note" style="margin-top:14px"><b>¿Por qué sale ese aviso?</b> El instalador aún no está firmado con un certificado de Apple. Es normal en versiones beta y solo ocurre la primera vez.</div>
+  </section>
+
+  <section>
+    <h2>Cómo instalarlo en Windows</h2>
+    <ol>
+      <li><b>Descarga y abre el archivo</b><span>Haz doble clic en <code>RF_AUDIO_PRO_Setup.exe</code> desde tu carpeta Descargas.</span></li>
+      <li><b>Si Windows lo bloquea, dale permiso</b><span>Si aparece «Windows protegió su PC», pulsa «Más información» y luego «Ejecutar de todos modos».</span></li>
+      <li><b>Instala</b><span>Sigue el instalador hasta el final. Instala los plugins en <code>C:\Program Files\Common Files\VST3</code>.</span></li>
+      <li><b>Reinicia tu DAW</b><span>Ciérralo del todo, ábrelo otra vez y vuelve a escanear los plugins VST3.</span></li>
+    </ol>
+    <div class="note" style="margin-top:14px"><b>¿Por qué sale ese aviso?</b> El instalador aún no está firmado con un certificado de Windows. Es normal en versiones beta y solo ocurre la primera vez.</div>
   </section>
 
   <section>
