@@ -1,0 +1,1 @@
+RFVUPD1|1.1.2|7fe11a7605144faab9f7ec2d671523a4960138fcc77bd6245d52856c93a80762|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_Setup.exe|Primera version para Windows
