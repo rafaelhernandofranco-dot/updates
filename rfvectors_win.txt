@@ -1,1 +1,1 @@
-RFVUPD1|1.3.7|3a1dec89a21cc56c825e2b506c16e58b20a67395448976543049e2fc716c5290|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_Setup.exe|Remote pantalla completa con QR, AUTO EQ y AUTO FIR con captura con nombre, IR con cero al centro, nivel del show
+RFVUPD1|1.4.4|4fb204a677a79892d9a2d02fc102498302e2e89d166b83b4bb74005a4726984d|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_Setup.exe|Remote corregido, SEND TO DSP en DSP MATRIX, proyectos en SD, 64 canales
