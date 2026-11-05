@@ -1,1 +1,1 @@
-RFVUPD1|1.4.10|24f0e48b633298affca64c703de742d83150bad717b0f421a8052c665ae99ca9|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.10_Setup.exe|el AVG se dibuja con la linea mas gruesa
+RFVUPD1|1.4.11|bbdd82492ab1a440238499219e3faa5f3e65a6945b07a1b4c0a2325d967622f2|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.11_Setup.exe|todo en el idioma elegido (ES / EN) y Z elige la traza a comparar
