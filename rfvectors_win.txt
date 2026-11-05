@@ -1,1 +1,1 @@
-RFVUPD1|1.4.11|bbdd82492ab1a440238499219e3faa5f3e65a6945b07a1b4c0a2325d967622f2|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.11_Setup.exe|todo en el idioma elegido (ES / EN) y Z elige la traza a comparar
+RFVUPD1|1.4.12|9c6eb24f871944266b12bb9ff4a55215e7366a64b81e86c6b54e9aded85e5c9c|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.12_Setup.exe|SD en metros o pies
