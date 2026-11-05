@@ -1,1 +1,1 @@
-RFVUPD1|1.4.4|4fb204a677a79892d9a2d02fc102498302e2e89d166b83b4bb74005a4726984d|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_Setup.exe|Remote corregido, SEND TO DSP en DSP MATRIX, proyectos en SD, 64 canales
+RFVUPD1|1.4.8|1c7e0bdd51d47eb3616684c57a613109ff54a94b061c4b63f6851d927670cb5d|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.8_Setup.exe|Mejoras y correcciones
