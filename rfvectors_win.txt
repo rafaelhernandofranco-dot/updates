@@ -1,1 +1,1 @@
-RFVUPD1|1.4.13|aa96ab88818ef343a8defa8808bb841c4dc0630a113f687a30a617daeaf356b2|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.13_Setup.exe|Z alterna solo entre dos trazos como Smaart
+RFVUPD1|1.4.14|b4e1ba0949d6c1fb0ae3ceb9de394f4d6cefb77ac457971f87b92ff7881da366|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.14_Setup.exe|la DIF de la barra de lectura compara tambien la coherencia
