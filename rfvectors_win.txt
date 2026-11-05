@@ -1,1 +1,1 @@
-RFVUPD1|1.4.8|dc77a226614f666a63885a0d1df2e85c5c98a1d5fdd36536e33fc8a32376569e|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.8_Setup.exe|Mejoras y correcciones
+RFVUPD1|1.4.9|ff1c21e867e9ab17d575ad71ccd2eb25b8884ad4a23b2e5bd812ad6f3c429f4d|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.9_Setup.exe|tecla Z cambia de trazo como Smaart
