@@ -1,1 +1,1 @@
-RFVUPD1|1.4.9|ff1c21e867e9ab17d575ad71ccd2eb25b8884ad4a23b2e5bd812ad6f3c429f4d|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.9_Setup.exe|tecla Z cambia de trazo como Smaart
+RFVUPD1|1.4.10|24f0e48b633298affca64c703de742d83150bad717b0f421a8052c665ae99ca9|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.10_Setup.exe|el AVG se dibuja con la linea mas gruesa
