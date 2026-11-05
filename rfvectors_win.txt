@@ -1,1 +1,1 @@
-RFVUPD1|1.4.12|9c6eb24f871944266b12bb9ff4a55215e7366a64b81e86c6b54e9aded85e5c9c|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.12_Setup.exe|SD en metros o pies
+RFVUPD1|1.4.13|aa96ab88818ef343a8defa8808bb841c4dc0630a113f687a30a617daeaf356b2|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.13_Setup.exe|Z alterna solo entre dos trazos como Smaart
