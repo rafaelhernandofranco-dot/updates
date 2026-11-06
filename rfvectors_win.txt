@@ -1,1 +1,1 @@
-RFVUPD1|1.4.30|024584e293750db94074f323ab3e3157ad22a63b6653423127c1f0b03bc35c28|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.30_Setup.exe|selector MAGNITUDE AVERAGE (POLAR / COMPLEX)
+RFVUPD1|1.4.31|34867ffddcf92647f8e31350997e9301e4ba4b09af4a09c4036da13baacffc72|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.31_Setup.exe|ventana TRACE AVERAGE (lista de capturas, nombre, color, dB / Power, Coherence Weighted)
