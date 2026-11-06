@@ -1,1 +1,1 @@
-RFVUPD1|1.4.25|2d7faec07a69b77734fc917ceaaba70404dc017319a925faadd010b4bd14d68f|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.25_Setup.exe|spectrograph 2D de abajo hacia arriba
+RFVUPD1|1.4.26|385b64ab7cd9047b686d65ee235d155b1516d1f198d68b9f7de4c5ff2861b4d8|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.26_Setup.exe|peak hold con clic en una frecuencia
