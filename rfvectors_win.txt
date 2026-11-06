@@ -1,1 +1,1 @@
-RFVUPD1|1.4.21|86c2e8b9064391de7984f34a99d39a7eab8a13bb5f1eaaef79528be932a32374|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.21_Setup.exe|spectrograph vuelve a la escala automatica de antes
+RFVUPD1|1.4.22|d567a1113c2758dceb474147acd3709e6c80cc2c0fd25bd0a55b680dd3c6e8a4|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.22_Setup.exe|spectrum calibrado igual que el SPL meter, lectura TOTAL
