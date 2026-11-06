@@ -1,1 +1,1 @@
-RFVUPD1|1.4.16|21c02c3eed57ffd3b43a1dd434ae085a5f48d0b4474e87a7fb50d5994ba2f4e7|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.16_Setup.exe|spectrograph y lectura en dB SPL cuando el spectrum esta en dB SPL
+RFVUPD1|1.4.17|cd8d9ed00858a330fcb80ece69219d14ece40ac588f3a45ae4c06a8933c4e9a5|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.17_Setup.exe|rejilla configurable (fuerza, grosor y color)
