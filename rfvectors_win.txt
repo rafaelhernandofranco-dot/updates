@@ -1,1 +1,1 @@
-RFVUPD1|1.4.17|cd8d9ed00858a330fcb80ece69219d14ece40ac588f3a45ae4c06a8933c4e9a5|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.17_Setup.exe|rejilla configurable (fuerza, grosor y color)
+RFVUPD1|1.4.18|faa43802ef20aec53608fda05fbf6a47c5d575111f1e9992f7e935ae1020f7ab|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.18_Setup.exe|lineas del cursor mas gruesas y con color propio
