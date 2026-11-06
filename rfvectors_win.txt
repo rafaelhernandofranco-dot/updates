@@ -1,1 +1,1 @@
-RFVUPD1|1.4.22|d567a1113c2758dceb474147acd3709e6c80cc2c0fd25bd0a55b680dd3c6e8a4|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.22_Setup.exe|spectrum calibrado igual que el SPL meter, lectura TOTAL
+RFVUPD1|1.4.23|f0250c2d401154f6ceb855125a6f2d0d7d9a0e40db8ca18b718ba164778f0e8f|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.23_Setup.exe|spectrograph 2D sin brincos de color
