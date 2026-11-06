@@ -1,1 +1,1 @@
-RFVUPD1|1.4.32|db6f3b98d9c84c0d18db66c0fcf51c1e3783d43a76e697610891dc98c7b21693|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.32_Setup.exe|SD microfonos en el balcon y quitar un solo microfono
+RFVUPD1|1.4.33|a9d7f571403fd898a2d1cc670f16127f5198a0cd97db47850520395ab371dd7c|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.33_Setup.exe|delay manual arrastrable en SELECTED TRACE, panel ENGINES
