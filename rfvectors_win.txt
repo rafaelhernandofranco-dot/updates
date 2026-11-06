@@ -1,1 +1,1 @@
-RFVUPD1|1.4.38|98ab43a86d285da3ef1462a0c31bc415a58eea8f4e449ffdd5528bfd3ab23696|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.38_Setup.exe|delay manual con flechas arriba / abajo en su propia fila
+RFVUPD1|1.4.39|236d361e0d3ede502b9335d921e684cfa4b10c9780cfada2fdc5588f91866263|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.39_Setup.exe|selectores limpios, sin lineas por encima
