@@ -1,1 +1,1 @@
-RFVUPD1|1.4.27|0419691b0f059343881c119602a30faea7194834019f0e9588f95acc4ee0f7a1|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.27_Setup.exe|targets duplicadas con distinto offset y tolerancia en lineas
+RFVUPD1|1.4.28|f29d36785e6fb78f86240a2f4575fa035e072f4a58455419622861f2958fffe1|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.28_Setup.exe|peak hold en varios puntos y escenas (guardar / abrir toda la configuracion)
