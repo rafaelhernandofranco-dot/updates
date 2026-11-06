@@ -1,1 +1,1 @@
-RFVUPD1|1.4.28|f29d36785e6fb78f86240a2f4575fa035e072f4a58455419622861f2958fffe1|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.28_Setup.exe|peak hold en varios puntos y escenas (guardar / abrir toda la configuracion)
+RFVUPD1|1.4.29|7b237aa606a0b415f9424f033aea49f1dccb1780a16e4305d335ce52f629b6d3|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.29_Setup.exe|el panel TOOLS se llama ENGINE
