@@ -1,1 +1,1 @@
-RFVUPD1|1.4.34|063bd464c1938c6cf4e59d1bdc897d9207ccd0b2fc808a6fa248d031e7a8d0eb|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.34_Setup.exe|tolerancia de targets como franja solida visible
+RFVUPD1|1.4.35|a22da63e0a68772302f9037ba8c6681f04bef72d0876bbbdc666bf3b2d0afffb|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.35_Setup.exe|el desplazamiento de fase tambien se muestra como delay en ms
