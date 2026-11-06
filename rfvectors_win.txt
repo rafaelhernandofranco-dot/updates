@@ -1,1 +1,1 @@
-RFVUPD1|1.4.33|a9d7f571403fd898a2d1cc670f16127f5198a0cd97db47850520395ab371dd7c|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.33_Setup.exe|delay manual arrastrable en SELECTED TRACE, panel ENGINES
+RFVUPD1|1.4.34|063bd464c1938c6cf4e59d1bdc897d9207ccd0b2fc808a6fa248d031e7a8d0eb|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.34_Setup.exe|tolerancia de targets como franja solida visible
