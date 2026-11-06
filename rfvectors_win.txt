@@ -1,1 +1,1 @@
-RFVUPD1|1.4.20|a8073d03ca5093662c21919284036ef195adefae5233225a13d2b126dd69b414|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.20_Setup.exe|spectrograph con escala fija, el ruido de piso no lo enciende
+RFVUPD1|1.4.21|86c2e8b9064391de7984f34a99d39a7eab8a13bb5f1eaaef79528be932a32374|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.21_Setup.exe|spectrograph vuelve a la escala automatica de antes
