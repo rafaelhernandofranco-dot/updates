@@ -1,1 +1,1 @@
-RFVUPD1|1.4.24|df7e9ba3c484dcbeea7d0db961364b6b0b1b32044216533015b32fb3ee96ef44|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.24_Setup.exe|el spectrograph desaparece al apagar el motor
+RFVUPD1|1.4.25|2d7faec07a69b77734fc917ceaaba70404dc017319a925faadd010b4bd14d68f|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.25_Setup.exe|spectrograph 2D de abajo hacia arriba
