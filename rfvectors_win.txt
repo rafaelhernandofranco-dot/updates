@@ -1,1 +1,1 @@
-RFVUPD1|1.4.39|236d361e0d3ede502b9335d921e684cfa4b10c9780cfada2fdc5588f91866263|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.39_Setup.exe|selectores limpios, sin lineas por encima
+RFVUPD1|1.4.40|e95bc1d76e16a543356626d2a145caaa13cb9c639c8d11b3759948c06d3b0f8e|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.40_Setup.exe|los selectores se dibujan encima de todo
