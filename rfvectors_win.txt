@@ -1,1 +1,1 @@
-RFVUPD1|1.4.19|57ba392f522dcaf70f0ee41f685a0640deb351c2654e301c1522247fdb16a582|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.19_Setup.exe|ponderacion (weighting) aplicada a la magnitud medida como Smaart
+RFVUPD1|1.4.20|a8073d03ca5093662c21919284036ef195adefae5233225a13d2b126dd69b414|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.20_Setup.exe|spectrograph con escala fija, el ruido de piso no lo enciende
