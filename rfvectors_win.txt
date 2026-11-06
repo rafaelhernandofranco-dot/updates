@@ -1,1 +1,1 @@
-RFVUPD1|1.4.23|f0250c2d401154f6ceb855125a6f2d0d7d9a0e40db8ca18b718ba164778f0e8f|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.23_Setup.exe|spectrograph 2D sin brincos de color
+RFVUPD1|1.4.24|df7e9ba3c484dcbeea7d0db961364b6b0b1b32044216533015b32fb3ee96ef44|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.24_Setup.exe|el spectrograph desaparece al apagar el motor
