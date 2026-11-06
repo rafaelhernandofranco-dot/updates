@@ -1,1 +1,1 @@
-RFVUPD1|1.4.36|527632d1892b1c8d323f3498b091691b1a95e524f922ca7fcddcce10badcc256|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.36_Setup.exe|tolerancia en la target principal y franja bien centrada
+RFVUPD1|1.4.37|6e21ce3c292105795865fc5ff8e0be27120dceaf0759388bcb74cdbcbd360945|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.37_Setup.exe|el generador puede salir por cualquier salida de la interfaz (hasta 64)
