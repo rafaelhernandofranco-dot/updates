@@ -1,1 +1,1 @@
-RFVUPD1|1.4.41|75a32970e6db63965feb0038ccad71b6738cd3612b8757f6a1f49cde60553806|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.41_Setup.exe|logo nuevo (modelo E amarillo), numeros de ejes mas visibles
+RFVUPD1|1.4.42|630de51a97f691279f5781c9e89c4c298acff7d99bae92232acde81497217c66|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.42_Setup.exe|curva X completa segun SMPTE ST 202 / ISO 2969
