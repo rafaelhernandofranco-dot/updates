@@ -1,1 +1,1 @@
-RFVUPD1|1.4.42|630de51a97f691279f5781c9e89c4c298acff7d99bae92232acde81497217c66|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.42_Setup.exe|curva X completa segun SMPTE ST 202 / ISO 2969
+RFVUPD1|1.4.43|5b60db37ffa4588bbf7066ba45135debc6a299b31959ed849ab962e901e3cd4f|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.43_Setup.exe|filtros en vivo HPF/LPF (LR 12/24/36/48) sobre la TF y MANO + zoom vertical en magnitud y fase
