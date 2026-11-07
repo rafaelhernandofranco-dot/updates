@@ -1,1 +1,1 @@
-RFVUPD1|1.4.40|e95bc1d76e16a543356626d2a145caaa13cb9c639c8d11b3759948c06d3b0f8e|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.40_Setup.exe|los selectores se dibujan encima de todo
+RFVUPD1|1.4.41|75a32970e6db63965feb0038ccad71b6738cd3612b8757f6a1f49cde60553806|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.41_Setup.exe|logo nuevo (modelo E amarillo), numeros de ejes mas visibles
