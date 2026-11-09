@@ -1,1 +1,1 @@
-RFVUPD1|1.4.63|7ded2d38ef088eb5809d0f4dc32434164f4076489edab41beeeb76fef66c7335|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.63_Setup.exe|targets con linea entera
+RFVUPD1|1.4.64|901b998692f6a62c4bfe60b7265b23c23d924df11f4ea2a5b691d48275da74b3|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.64_Setup.exe|MED fijo en la ventana de captura (no se selecciona todo)
