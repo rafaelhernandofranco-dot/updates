@@ -1,1 +1,1 @@
-RFVUPD1|1.4.82|dfa6d8cf3cc54143b54c9d5874d35707d06532073d7d68436a4bd7f943d989fa|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.82_Setup.exe|espectrografo vuelve a subir (lo nuevo abajo)
+RFVUPD1|1.4.83|4e37e7b2b0f0fa1834df98ec475becbd24e136df87d7785cae8735f4fca72841|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.83_Setup.exe|AUTO EQ vuelve al comportamiento de la 1.4.80
