@@ -1,1 +1,1 @@
-RFVUPD1|1.4.71|79d4b201a25728e78ceb63e056e2328df9a3763a0202e1c5a60739e53d614d8d|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.71_Setup.exe|DSP PREVIEW fuera de la lista de trazos
+RFVUPD1|1.4.72|99687347d6a935eae431ea6a3707102992f69db924e0ad40a979eed3b73e0b1f|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.72_Setup.exe|el AUTO EQ usa la target de la grafica
