@@ -1,1 +1,1 @@
-RFVUPD1|1.4.48|f94b1fb1d1a3dac82ef8aa6d11cb8bdacb54c45237ffcba23855c691e3265539|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.48_Setup.exe|targets importadas sin forzar 0 dB en 1 kHz (la target de subs ya no se va al cielo)
+RFVUPD1|1.4.49|7288a7a2037af581343a67bf1f728e6b51c607cde9771a7b92692ebfdd8da4e4|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.49_Setup.exe|AUTO GAIN con subs solos usa la banda de paso real (la curva ya no se va al cielo)
