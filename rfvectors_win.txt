@@ -1,1 +1,1 @@
-RFVUPD1|1.4.55|829c0534a2669a436b366ef6dba2cdb035eecbba4c604fdae1de138e80f50873|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.55_Setup.exe|la ventana PEAKS reaparece con marcadores nuevos y se esconde sin marcadores
+RFVUPD1|1.4.56|fb7ce5a7627f12a4fc151e3829a5edf07072965f8103fa2bb6b4b18660956dbf|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.56_Setup.exe|ventana de captura con MED prellenado y boton CANCELAR
