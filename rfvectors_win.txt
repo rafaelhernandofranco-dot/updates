@@ -1,1 +1,1 @@
-RFVUPD1|1.4.58|bc79e119d6522e05025bf8a391f3ecd4cc6571fb2d53790a80a884a33279eb46|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.58_Setup.exe|HELP al dia (manual con secciones nuevas y atajos en los dos idiomas)
+RFVUPD1|1.4.59|986e1999a766095c9e29162cb0ee255311ef56e5d552525b1194884e851a8149|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.59_Setup.exe|targets de subs en 0 dB (LO-SUBS ya no se va al cielo) y LPF del TARGET CREATOR desde 30 Hz
