@@ -1,1 +1,1 @@
-RFVUPD1|1.4.65|2096f29eac8aad1328eebcd3a49970b369feb2c14041626f38f26625d336b4fd|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.65_Setup.exe|logo D (navy + amarillo) y la actualizacion siempre trae el logo
+RFVUPD1|1.4.67|429f8ffdef04ba1e4e3b5dd1b06634fd3fe73cb9290008b56e9fbfb8c33b318e|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.67_Setup.exe|AUTO EQ con solo dos lineas (sin DSP PREVIEW), demas trazos tenues, leyenda abajo
