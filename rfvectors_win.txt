@@ -1,1 +1,1 @@
-RFVUPD1|1.4.77|e13bb64bffbb233410ba48452fdbad024dc08e7fed4f94b8bc9dad046c377234|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.77_Setup.exe|revisar el pasado del espectrografo con flechas
+RFVUPD1|1.4.78|70de447e9dc1af8844f55ea4e2edd8b5d363b0f5e68d2a32e0d491182c4957d9|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.78_Setup.exe|la vista previa del AUTO EQ sale en TRACES al cerrar el DSP (se puede apagar)
