@@ -1,1 +1,1 @@
-RFVUPD1|1.4.69|6c4719364d3ad7f31c742ce32fe29892c8a813fbda1a34f3916ea49068de5835|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.69_Setup.exe|AUTO EQ espera los parametros (calcula al pulsar el boton) y solo dos lineas
+RFVUPD1|1.4.70|a062bde7d607cdfc8ec63ffa5d43dbda1b0d192a106636dc5cf56dbe99702d3f|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.70_Setup.exe|la target se ve con el AUTO EQ abierto
