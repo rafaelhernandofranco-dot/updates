@@ -1,1 +1,1 @@
-RFVUPD1|1.4.59|986e1999a766095c9e29162cb0ee255311ef56e5d552525b1194884e851a8149|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.59_Setup.exe|targets de subs en 0 dB (LO-SUBS ya no se va al cielo) y LPF del TARGET CREATOR desde 30 Hz
+RFVUPD1|1.4.60|01a6967e14edc4e9745f703435ecef17a6f8629582f3ff87c2d79792ec33b080|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.60_Setup.exe|TARGET CREATOR > SAVE AS TARGET (targets propias con nombre, ej. subs)
