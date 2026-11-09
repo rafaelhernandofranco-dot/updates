@@ -1,1 +1,1 @@
-RFVUPD1|1.4.74|3e5cd76e000f7e87c696727381cf604002ca4220241b100343582032ccafda8a|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.74_Setup.exe|primer PEAK HOLD con doble clic (TF y SPECTRUM)
+RFVUPD1|1.4.75|11a7563fed0406839c572c242359b349ee79e2f6fa443be5ee82ecf9dd626037|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.75_Setup.exe|Windows usa el dialogo de archivos propio (ya no se cuelga al exportar desde DSP)
