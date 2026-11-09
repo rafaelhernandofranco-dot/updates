@@ -1,1 +1,1 @@
-RFVUPD1|1.4.61|2c492f677b48560cb2ebb2f02355a7024215a6823eb8ceffb84074ae8056c1f6|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.61_Setup.exe|SHOW de la target principal en TARGET CURVES
+RFVUPD1|1.4.62|78846174b8c4d5ad5906cf2ecf337e5d3ea3b8d96b095dc7894ae706bb9fc8b5|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.62_Setup.exe|APPLY TARGET guarda la target con nombre (varias a la vez, SHOW para prender/apagar)
