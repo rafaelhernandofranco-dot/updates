@@ -1,1 +1,1 @@
-RFVUPD1|1.4.83|4e37e7b2b0f0fa1834df98ec475becbd24e136df87d7785cae8735f4fca72841|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.83_Setup.exe|AUTO EQ vuelve al comportamiento de la 1.4.80
+RFVUPD1|1.4.84|95a46c9f0f8943c8cfa847b71068ef73cc7ff4d0d1eebc768b7adf8cf66865c6|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.84_Setup.exe|AUTO EQ abre siempre nuevo (la EQ vieja solo si se pide)
