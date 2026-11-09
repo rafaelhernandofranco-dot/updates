@@ -1,1 +1,1 @@
-RFVUPD1|1.4.67|429f8ffdef04ba1e4e3b5dd1b06634fd3fe73cb9290008b56e9fbfb8c33b318e|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.67_Setup.exe|AUTO EQ con solo dos lineas (sin DSP PREVIEW), demas trazos tenues, leyenda abajo
+RFVUPD1|1.4.68|b7d32ab5da1bb461a941fa6d246ec0d49f59b6e61415b198c7ca99070d4935b9|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.68_Setup.exe|vuelve la vista previa de la EQ al cerrar el AUTO EQ (solo dos lineas)
