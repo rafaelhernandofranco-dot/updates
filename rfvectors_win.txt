@@ -1,1 +1,1 @@
-RFVUPD1|1.4.60|01a6967e14edc4e9745f703435ecef17a6f8629582f3ff87c2d79792ec33b080|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.60_Setup.exe|TARGET CREATOR > SAVE AS TARGET (targets propias con nombre, ej. subs)
+RFVUPD1|1.4.61|2c492f677b48560cb2ebb2f02355a7024215a6823eb8ceffb84074ae8056c1f6|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.61_Setup.exe|SHOW de la target principal en TARGET CURVES
