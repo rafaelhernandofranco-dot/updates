@@ -1,1 +1,1 @@
-RFVUPD1|1.4.72|99687347d6a935eae431ea6a3707102992f69db924e0ad40a979eed3b73e0b1f|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.72_Setup.exe|el AUTO EQ usa la target de la grafica
+RFVUPD1|1.4.73|c4272a076f2cd9891514ee254f3d97b4f2bfe83cfc6da4980610e897395f29ab|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.73_Setup.exe|captura final del AUTO EQ con color distinto a la original
