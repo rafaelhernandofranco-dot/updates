@@ -1,1 +1,1 @@
-RFVUPD1|1.4.52|17b1348ec6e67eda3834197e8d7c487ac21f554de15fff0b2ddd35aa993b078d|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.52_Setup.exe|el espectrograma se mueve junto con el spectrum (zoom / MANO) sin borrar la historia
+RFVUPD1|1.4.53|faf51880f1b393892da8e3187c8058ff659d5d453cb8869d22eb6bed370ab897|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.53_Setup.exe|la barra de lectura siempre cabe (se achica en ventanas angostas)
