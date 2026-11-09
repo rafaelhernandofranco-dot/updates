@@ -1,1 +1,1 @@
-RFVUPD1|1.4.76|8e2867bd8dc16bccc2222026057676057d290179c25bf63021dc4d0d61e12838|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.76_Setup.exe|nombres rapidos en la ventana de captura
+RFVUPD1|1.4.77|e13bb64bffbb233410ba48452fdbad024dc08e7fed4f94b8bc9dad046c377234|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.77_Setup.exe|revisar el pasado del espectrografo con flechas
