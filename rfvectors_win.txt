@@ -1,1 +1,1 @@
-RFVUPD1|1.4.75|11a7563fed0406839c572c242359b349ee79e2f6fa443be5ee82ecf9dd626037|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.75_Setup.exe|Windows usa el dialogo de archivos propio (ya no se cuelga al exportar desde DSP)
+RFVUPD1|1.4.76|8e2867bd8dc16bccc2222026057676057d290179c25bf63021dc4d0d61e12838|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.76_Setup.exe|nombres rapidos en la ventana de captura
