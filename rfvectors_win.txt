@@ -1,1 +1,1 @@
-RFVUPD1|1.4.80|381c3f0a056808bdebcdb703cf6b836bafa4c53ea33c34626295ecb2e26d4aac|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.80_Setup.exe|AUTO EQ sin curva blanca / preview, capturas guardan su EQ para SEND TO DSP, +6 dB realza
+RFVUPD1|1.4.81|a5715101b0a46d8492c067d922fe45ce9d71128a789a16d0afdc728eb0aacf6c|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.81_Setup.exe|AUTO EQ contra la target tal como se ve (sin alinear al promedio)
