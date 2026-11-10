@@ -1,1 +1,1 @@
-RFVUPD1|1.4.99|8ee74b7d8cb2f89d7828f91fdab8fd8b97325e829feb544fbc8767899b777250|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.99_Setup.exe|escenas del DSP LIVE y hoja de valores (TXT / CSV)
+RFVUPD1|1.5.00|ce35a9a04afd1ed1d39ba5b589cbd9e09ef57d5bad8cfbff291848cf45ac0ccc|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.00_Setup.exe|sub Meyer 2100-LFC (1x21) en la biblioteca
