@@ -1,1 +1,1 @@
-RFVUPD1|1.4.85|418f3d6e5191463e582214a2e52699e3a6b81ed0bead71735005f77922d17a2f|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.85_Setup.exe|CAPTURE con AUTO EQ abierto cierra y quita las sombras
+RFVUPD1|1.4.86|ab211e84bc703068b0060b0629d87543ed8855f67d9ba2dd3fa2e0e30b28d375|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.86_Setup.exe|AUTO EQ abre con la lectura en vivo
