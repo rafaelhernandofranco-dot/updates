@@ -1,1 +1,1 @@
-RFVUPD1|1.4.93|7b8dc2b54158f7313542921cffef4bd494f6cf302e17544deb0f019336910e9a|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.93_Setup.exe|BW 48 y lista de HPF/LPF ordenada (BW/LR 12, 24, 48)
+RFVUPD1|1.4.94|41601d8139d256efbbd58e19fff70292a1afed26c13cffe4fcd7df24237274d6|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.94_Setup.exe|L-IFFT (impulso por banda) y arrastrar / zoom en el IMPULSE
