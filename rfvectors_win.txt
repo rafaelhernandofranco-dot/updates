@@ -1,1 +1,1 @@
-RFVUPD1|1.4.95|0133a080770c32ddfe32b2b4fb662cb01a2fd200765399fe152c6113a1601a95|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.95_Setup.exe|L-IFFT en ETC con envolvente (Hilbert)
+RFVUPD1|1.4.96|100e696954a1321bf10f93b916121d2fd6487ba3630e087b25251f30b427f099|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.96_Setup.exe|seleccion multiple de capturas (Shift / Cmd) para carpetas
