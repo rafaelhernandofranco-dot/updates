@@ -1,1 +1,1 @@
-RFVUPD1|1.4.90|b09b17b29bb514b73b36d7be009fce85a95fa0dca2ac8c63c20bec87d5321845|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.90_Setup.exe|AUTO FIR con el mismo flujo que AUTO EQ; el canal en vivo dibuja el FIR
+RFVUPD1|1.4.91|edba7ba2f078b1a411a316ab1db49893b108ad92444752628842fe4516c26242|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.91_Setup.exe|EDIT EQ del DSP LIVE dibuja el FIR
