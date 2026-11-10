@@ -1,1 +1,1 @@
-RFVUPD1|1.5.00|ce35a9a04afd1ed1d39ba5b589cbd9e09ef57d5bad8cfbff291848cf45ac0ccc|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.00_Setup.exe|sub Meyer 2100-LFC (1x21) en la biblioteca
+RFVUPD1|1.5.01|053a418ba865cd6b789dcf00498c926901b6685a99b249b53d87b628a284fec4|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.01_Setup.exe|columna BW (oct) en hoja de valores del DSP
