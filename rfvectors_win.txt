@@ -1,1 +1,1 @@
-RFVUPD1|1.4.91|edba7ba2f078b1a411a316ab1db49893b108ad92444752628842fe4516c26242|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.91_Setup.exe|EDIT EQ del DSP LIVE dibuja el FIR
+RFVUPD1|1.4.92|8b0563179f737bb8178c3e125a6927e1f3386e59ca10309c4802a2f1bdbf6fd7|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.92_Setup.exe|LR 12 en HPF/LPF (AUTO EQ, DSP LIVE, DSP MATRIX)
