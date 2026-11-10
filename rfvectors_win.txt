@@ -1,1 +1,1 @@
-RFVUPD1|1.4.98|1e60623df2d72b3a8d3c9ff14078f05ada38537c55f2e3acb744b128bb7a2aca|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.98_Setup.exe|escoger START arranca la cuenta y enciende el generador solo
+RFVUPD1|1.4.99|8ee74b7d8cb2f89d7828f91fdab8fd8b97325e829feb544fbc8767899b777250|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.99_Setup.exe|escenas del DSP LIVE y hoja de valores (TXT / CSV)
