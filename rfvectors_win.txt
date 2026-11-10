@@ -1,1 +1,1 @@
-RFVUPD1|1.5.02|9a825595175078d5b3e1e1be8481c0feace60a1f4d081162505ff8e69ec27fa7|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.02_Setup.exe|AVG usa las capturas seleccionadas y promedia distinta resolucion
+RFVUPD1|1.5.03|199142e6468b72f1ba93384728c3bd34294e43fe8596734c9f82540e0a659df3|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.03_Setup.exe|Shift+clic en TRACES no pierde el punto de partida (carpeta nueva con todas las seleccionadas)
