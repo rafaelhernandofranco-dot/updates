@@ -1,1 +1,1 @@
-RFVUPD1|1.4.92|8b0563179f737bb8178c3e125a6927e1f3386e59ca10309c4802a2f1bdbf6fd7|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.92_Setup.exe|LR 12 en HPF/LPF (AUTO EQ, DSP LIVE, DSP MATRIX)
+RFVUPD1|1.4.93|7b8dc2b54158f7313542921cffef4bd494f6cf302e17544deb0f019336910e9a|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.93_Setup.exe|BW 48 y lista de HPF/LPF ordenada (BW/LR 12, 24, 48)
