@@ -1,1 +1,1 @@
-RFVUPD1|1.4.96|100e696954a1321bf10f93b916121d2fd6487ba3630e087b25251f30b427f099|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.96_Setup.exe|seleccion multiple de capturas (Shift / Cmd) para carpetas
+RFVUPD1|1.4.97|072fca160fdde7f5f7be5ba9100e74cac4fb4660c60ae62d074563ec655403bd|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.97_Setup.exe|ZOOM presets (1-4, Shift+1-4) en PREFS y TIMER del generador con START + fade in
