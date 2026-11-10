@@ -1,1 +1,1 @@
-RFVUPD1|1.4.86|ab211e84bc703068b0060b0629d87543ed8855f67d9ba2dd3fa2e0e30b28d375|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.86_Setup.exe|AUTO EQ abre con la lectura en vivo
+RFVUPD1|1.4.88|ba24c0a4c214e2a3639076d76d2136434991cfb4006eae119fe3c89229dad6be|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.4.88_Setup.exe|spectrum con colores del espectrografo, AUTO FIR al DSP, nombres TRACE/TOPS
