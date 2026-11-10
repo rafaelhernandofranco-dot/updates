@@ -1,1 +1,1 @@
-RFVUPD1|1.5.06|b402bb590291e9844afded6ff9fcd04d87c6990bb582f18a1800637e29fefb9b|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.06_Setup.exe|VEKTRA 1.5.06: la portada sale primero mientras carga y se quita al abrir
+RFVUPD1|1.5.07|621ac6cebeee745f0b40178b56c82d545b110da0d3c2a316b650617be045a979|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.07_Setup.exe|VEKTRA 1.5.07: la portada se difumina lentamente al abrir
