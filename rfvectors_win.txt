@@ -1,1 +1,1 @@
-RFVUPD1|1.5.15|dc1009b5b51f22f9836a7d6797f84207acfee22c56514e02fbf40261aa2b88b4|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.15_Setup.exe|VEKTRA 1.5.15: portada con el sello redondo by RF AUDIO PRO
+RFVUPD1|1.5.16|b58ca77fe11b486989c84fbb05931f420510c4246accbeacf3f0647871b258b2|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.16_Setup.exe|VEKTRA 1.5.16: portada mas grande (560 px)
