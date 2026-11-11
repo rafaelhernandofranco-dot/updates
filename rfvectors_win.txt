@@ -1,1 +1,1 @@
-RFVUPD1|1.5.24|6d0e8bb9a86e387ca55a9e67bbf073aa6635f2e9d0c05e61109e7c53c7ad70e8|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.24_Setup.exe|VEKTRA 1.5.24: guardar capturas en carpetas de Documentos (.vkcap) y abrirlas de nuevo
+RFVUPD1|1.5.25|b4eff5529d9c9bbc122fc637fbd89d89f5b56ce30260e3bdae9008245d435ca4|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.25_Setup.exe|VEKTRA 1.5.25: Shift+clic alinea todas (promedio en vivo y capturas con huecos)
