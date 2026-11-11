@@ -1,1 +1,1 @@
-RFVUPD1|1.5.14|d28ada45fb3438d272dd79d56dae9dcc94528ebe086ce1906044e0ea03e068c3|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.14_Setup.exe|VEKTRA 1.5.14: portada con nuestra V de barras en el logo del plano azul
+RFVUPD1|1.5.15|dc1009b5b51f22f9836a7d6797f84207acfee22c56514e02fbf40261aa2b88b4|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.15_Setup.exe|VEKTRA 1.5.15: portada con el sello redondo by RF AUDIO PRO
