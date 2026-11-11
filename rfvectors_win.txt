@@ -1,1 +1,1 @@
-RFVUPD1|1.5.18|dfdff5d80e291008ba10d49fd652d2f06a7a1018855ff3b30d418ea24f7fd0f9|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.18_Setup.exe|VEKTRA 1.5.18: auto-guardado y recuperacion de la grabacion SPL
+RFVUPD1|1.5.19|91f01c7fd42a332d435718903b4ecd2e57b0fe5a1473f866e1c0cd63e9bfa19a|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.19_Setup.exe|VEKTRA 1.5.19: SWIPE usa el mismo AUTO GAIN que la TF en vivo
