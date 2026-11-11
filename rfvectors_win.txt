@@ -1,1 +1,1 @@
-RFVUPD1|1.5.23|a984edb141d0db4af3a454c6f5894769a53b8f9bfabce9d1ce4469074a75249a|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.23_Setup.exe|VEKTRA 1.5.23: la tecla 0 regresa todas las curvas a su posicion
+RFVUPD1|1.5.24|6d0e8bb9a86e387ca55a9e67bbf073aa6635f2e9d0c05e61109e7c53c7ad70e8|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.24_Setup.exe|VEKTRA 1.5.24: guardar capturas en carpetas de Documentos (.vkcap) y abrirlas de nuevo
