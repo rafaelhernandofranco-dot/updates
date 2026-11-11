@@ -1,1 +1,1 @@
-RFVUPD1|1.5.20|0846172a94473b0bf623b2b37995424129e8ed73615d979aa0e91453747c0d3e|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.20_Setup.exe|VEKTRA 1.5.20: logo en base64 (bloque de actualizacion mas liviano)
+RFVUPD1|1.5.20|ff55f3ceb95ca383635420c26d51ad334b094d50ece4d6128ef6e58bac54472a|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.20_Setup.exe|VEKTRA 1.5.20: logo mas liviano (portada 1120 px, icono optimizado) y bloque LOGO aparte
