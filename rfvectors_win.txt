@@ -1,1 +1,1 @@
-RFVUPD1|1.5.16|b58ca77fe11b486989c84fbb05931f420510c4246accbeacf3f0647871b258b2|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.16_Setup.exe|VEKTRA 1.5.16: portada mas grande (560 px)
+RFVUPD1|1.5.17|b0cfdf96e88b9a0211c08d9e2f43d7cab0400896ad564beaf79493115c7a3cbc|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.17_Setup.exe|VEKTRA 1.5.17: SPL GRAPH EXPORT (CSV todos, PNG, reporte)
