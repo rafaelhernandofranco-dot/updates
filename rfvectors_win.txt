@@ -1,1 +1,1 @@
-RFVUPD1|1.5.17|b0cfdf96e88b9a0211c08d9e2f43d7cab0400896ad564beaf79493115c7a3cbc|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.17_Setup.exe|VEKTRA 1.5.17: SPL GRAPH EXPORT (CSV todos, PNG, reporte)
+RFVUPD1|1.5.18|dfdff5d80e291008ba10d49fd652d2f06a7a1018855ff3b30d418ea24f7fd0f9|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.18_Setup.exe|VEKTRA 1.5.18: auto-guardado y recuperacion de la grabacion SPL
