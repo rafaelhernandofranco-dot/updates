@@ -1,1 +1,1 @@
-RFVUPD1|1.5.12|bbd06eeb04b491b3e36719606f859f004e2524ab8e128f93e7a9cd1885c05328|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.12_Setup.exe|VEKTRA 1.5.12: relojes alrededor de la SPL GRAPH y tiempo en una sola lista
+RFVUPD1|1.5.13|3c9903f8bfc22bd8ca6b22a0270db90d599655b95900fb4bd851b0b49dc5dd62|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.13_Setup.exe|VEKTRA 1.5.13: portada con el logo del plano azul y la V de barras
