@@ -1,1 +1,1 @@
-RFVUPD1|1.5.22|76cff3c3ccaf5a12e3ecc297e62991c250af8e675fcfe61edb74403c05a98cec|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.22_Setup.exe|VEKTRA 1.5.22: CLEAR pasa a DE-SELECT (esconde todas las capturas), Ctrl+Shift+H
+RFVUPD1|1.5.23|a984edb141d0db4af3a454c6f5894769a53b8f9bfabce9d1ce4469074a75249a|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.23_Setup.exe|VEKTRA 1.5.23: la tecla 0 regresa todas las curvas a su posicion
