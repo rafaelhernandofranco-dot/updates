@@ -1,1 +1,1 @@
-RFVUPD1|1.5.08|c26df97f82f5a208cbd29631e609e02d0d694e542b10c152d2b3842502c82ce5|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.08_Setup.exe|VEKTRA 1.5.08: portada mas pequena (400 px)
+RFVUPD1|1.5.09|14ae171d5459d2fb149741927440d6b424809308dfb4f93b52239729e49d0337|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.09_Setup.exe|VEKTRA 1.5.09: SPL GRAPH (todos los medidores, limite, marcadores, REC ALL) + encabezado mas pequeno + portada mas larga
