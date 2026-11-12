@@ -1,1 +1,1 @@
-RFVUPD1|1.5.32|c9064269564677f2a49cfa298c32321f0fb61a462255b91d3620b716b3ab439b|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.32_Setup.exe|VEKTRA 1.5.32: AUTO SPLAY cuenta las figuras (gradas, cortes dibujados) y el venue EMPTY
+RFVUPD1|1.5.33|5debcc42209b4bed61b12f0ab9157aa88cf5e3c13e1f814081d1193807e82fe8|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.33_Setup.exe|VEKTRA 1.5.33: arrastrar varias capturas seleccionadas a una carpeta
