@@ -1,1 +1,1 @@
-RFVUPD1|1.5.34|f72c2a406c8a60ea762c784a14c6ddf3de2aea14efa3e33cb25e39c5bad6ba5c|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.34_Setup.exe|VEKTRA 1.5.34: SWIPE en vivo (linea amarilla y curva que se va llenando mientras suena)
+RFVUPD1|1.5.35|5c938203b217f6856478b2117fbf61ddbf735654c447d7b0ad8567dfd53f0756|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.35_Setup.exe|Mejoras y correcciones
