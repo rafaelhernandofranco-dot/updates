@@ -1,1 +1,1 @@
-RFVUPD1|1.5.33|5debcc42209b4bed61b12f0ab9157aa88cf5e3c13e1f814081d1193807e82fe8|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.33_Setup.exe|VEKTRA 1.5.33: arrastrar varias capturas seleccionadas a una carpeta
+RFVUPD1|1.5.34|f72c2a406c8a60ea762c784a14c6ddf3de2aea14efa3e33cb25e39c5bad6ba5c|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.34_Setup.exe|VEKTRA 1.5.34: SWIPE en vivo (linea amarilla y curva que se va llenando mientras suena)
