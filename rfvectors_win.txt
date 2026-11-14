@@ -1,1 +1,1 @@
-RFVUPD1|1.5.37|87b6cf39fe7a06c2dc0f72dc5d3114fb05ca1f5c353cd2b0e66d5eeb68607d36|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.37_Setup.exe|Mejoras y correcciones
+RFVUPD1|1.5.58|df147ade91e317062e0968ee1bfb1600225bf85711fe5847be06395ee5a32066|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_Vectors_Analyzer_1.5.58_Setup.exe|Mejoras y correcciones
