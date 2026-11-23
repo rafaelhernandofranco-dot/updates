@@ -1,1 +1,1 @@
-RFVUPD1|1.6.10|1fe918181a899d15ece33d32f350c6c6e01dd89cb5025f2d8790128deed33557|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-v1.6.10/RF_VEKTRA_SYSTEM_SUITE_1.6.10.zip|VEKTRA 1.6.10: mejoras y correcciones (HELP > Novedades)
+RFVUPD1|1.6.11|a7d73c1653d3cc0b15a39ddd3bbe1e4ecc1eda895b1db95de0a4efa580582a43|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-v1.6.11/RF_VEKTRA_SYSTEM_SUITE_1.6.11.zip|VEKTRA 1.6.11: mejoras y correcciones (HELP > Novedades)
