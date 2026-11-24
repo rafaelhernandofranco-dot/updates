@@ -1,1 +1,1 @@
-RFVUPD1|1.6.16|370a65b008abb02e1669187d7c7746015a78efaf8b36e488f03e662a9079969b|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_VEKTRA_SYSTEM_SUITE_1.6.16_Setup.exe|Mejoras y correcciones
+RFVUPD1|1.6.17|3f622ba6ce91099dfdecec7449cce189559588218d5525d800e644302cfee806|https://github.com/rafaelhernandofranco-dot/updates/releases/download/rfvectors-windows/RF_VEKTRA_SYSTEM_SUITE_1.6.17_Setup.exe|Mejoras y correcciones
